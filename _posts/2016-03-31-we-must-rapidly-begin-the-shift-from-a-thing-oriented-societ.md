@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We must rapidly begin the shift from a thing-oriented society to a person-oriented society.\_ -Martin Luther King"
-datePublished: '2016-03-31T23:25:37.962Z'
-dateModified: '2016-03-31T23:25:23.560Z'
+datePublished: '2016-03-31T23:35:16.778Z'
+dateModified: '2016-03-31T23:25:41.418Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-31-we-must-rapidly-begin-the-shift-from-a-thing-oriented-societ.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-we-must-rapidly-begin-the-shift-from-a-thing-oriented-societ.md
-published: true
 url: we-must-rapidly-begin-the-shift-from-a-thing-oriented-societ/index.html
 _type: Article
 
