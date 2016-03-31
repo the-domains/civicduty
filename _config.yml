@@ -1,4 +1,4 @@
-name: CivicDuty
+name: Civic Duty
 favicon: null
 layout_spectrum: 0.7437
 typography_spectrum: 0.9507547656539828
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.14446071884594858
+  brandStrength: 0.1875
   lightness: 0.7844309634529054
   saturation: 0.20136548206210136
   rhythmicContrast: 0.6461109647061676
