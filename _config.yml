@@ -2,6 +2,7 @@ name: CivicDuty
 favicon: null
 layout_spectrum: 0.7437
 typography_spectrum: 0.9507547656539828
+title: Civic Duty
 cta:
   domain: null
   bucket: null
