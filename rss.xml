@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[civicduty]]></title>
-        <description><![CDATA[civicduty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Civic Duty]]></title>
+        <description><![CDATA[Civic Duty]]></description>
+        <link>https://thegrid.ai/civicduty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 23:25:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 23:35:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/civicduty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdb428af-e691-47a8-b4a2-61321734db00.jpg">]]></description>
+            <link>https://thegrid.ai/civicduty/81cdd150-9fb7-4ac9-8dea-df5185a91419/index.html</link>
+            <guid isPermaLink="false">81cdd150-9fb7-4ac9-8dea-df5185a91419</guid>
+            <pubDate>Thu, 31 Mar 2016 23:35:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52f05c0b-1fd6-4afa-8622-40836747ba7a.jpg">]]></description>
-            <link>undefinedwe-must-rapidly-begin-the-shift-from-a-thing-oriented-societ/index.html</link>
+            <link>https://thegrid.ai/civicduty/we-must-rapidly-begin-the-shift-from-a-thing-oriented-societ/index.html</link>
             <guid isPermaLink="false">0433a36e-de32-4c9e-9914-97e44c5a9489</guid>
             <pubDate>Thu, 31 Mar 2016 23:25:37 GMT</pubDate>
         </item>
